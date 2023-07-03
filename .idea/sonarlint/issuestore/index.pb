@@ -7,8 +7,6 @@ F
 config-service/pom.xml,9/3/93d3996e8089bcf62c0f63dc8ae952567bec29ae
 N
 authentication-service/pom.xml,5/9/593f1bc2dfb5887e0ac5ebede7fbebd619fc507c
-7
-pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 D
 user-service/pom.xml,d/2/d2f5d1978e5f519100a679c4109f89296278badc
 n
