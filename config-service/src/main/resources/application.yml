@@ -1,0 +1,12 @@
+server:
+  port: 9297
+
+spring:
+  application:
+    name: config-service
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/igorkosandyak/demo-config-server.git
+          clone-on-start: true
